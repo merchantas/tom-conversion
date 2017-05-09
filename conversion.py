@@ -7,3 +7,10 @@ def dollars2cents(dollars):
 def gallons2liters(gallons)
 	liters= gallons * 3.84
 	return liters
+
+def moles2atoms(mols):
+	atoms = mols * 6.02e23
+	return atoms
+
+FINAL CHANGE!!
+
