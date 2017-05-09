@@ -6,4 +6,4 @@ def dollars2cents(dollars):
 
 def gallons2liters(gallons)
 	liters= gallons * 3.84
-	return literes
+	return liters
